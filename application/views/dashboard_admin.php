@@ -1,0 +1,1 @@
+ keluarin disini > [<a href='<?php echo base_url('dashboard/logout');?>'>Keluar</a>]

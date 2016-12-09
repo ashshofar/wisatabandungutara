@@ -1,0 +1,3 @@
+host : mysql.idhostinger.com
+username : u431129137_wisat
+password : spoofing22
